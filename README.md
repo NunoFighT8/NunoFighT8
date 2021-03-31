@@ -1,6 +1,6 @@
-### Hi, I´m Nuno Fernandes! 👋
+### Hi, I’m Nuno Fernandes! 👋
 
-- 🔭 I’m currently working on APP called HealthScheduler.
+- 🔭 I’m currently interning at Scion Labs
 - 🌱 I’m currently learning Angular.
 - 📫 How to reach me: [Twitter](https://twitter.com/nunofernandes08)
 - 😄 Pronouns: He/His.
